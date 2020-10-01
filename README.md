@@ -70,7 +70,7 @@
 
 ## Donation
 
-If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
+If you find this project useful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
 ## References
 
